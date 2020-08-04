@@ -1,16 +1,23 @@
-### Hi there 👋
+# Thomas Sjögren - [@konstruktoid](https://github.com/konstruktoid)
 
-<!--
-**konstruktoid/konstruktoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstruktoid&show_icons=true)
 
-Here are some ideas to get you started:
+## Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Writer
+
+[Using Ansible custom, or local, facts](https://medium.com/@konstruktoid/using-ansible-custom-or-local-facts-95f3a8510fae)
+
+[Enforcing SSH key policies using Ansible](https://medium.com/@konstruktoid/enforcing-ssh-key-policies-using-ansible-dedcdea5d46e)
+
+### Editor
+
+[CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/)
+
+### Contributor
+
+[CIS Distribution Independent Linux](https://www.cisecurity.org/benchmark/distribution_independent_linux/)
+
+[CIS Red Hat Enterprise Linux Benchmark](https://www.cisecurity.org/benchmark/red_hat_linux/)
+
+[CIS Ubuntu Linux LTS Benchmark](https://www.cisecurity.org/benchmark/ubuntu_linux/)
