@@ -1,4 +1,4 @@
-# Thomas Sjögren - [@konstruktoid](https://github.com/konstruktoid)
+# Hi There!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstruktoid&show_icons=true)
 
