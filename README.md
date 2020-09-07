@@ -2,6 +2,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstruktoid&show_icons=true)
 
+This here is a collection freely available open-source software.
+If you'd like to support the development of current and future projects, or just
+to say thanks, please [sponsor me on GitHub](https://github.com/sponsors/konstruktoid).
+
 ## Publications
 
 ### Writer
