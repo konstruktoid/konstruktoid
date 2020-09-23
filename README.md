@@ -2,9 +2,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstruktoid&show_icons=true)
 
-This here is a collection freely available open-source software.
+This here is a collection of freely available open-source software.
+
 If you'd like to support the development of current and future projects, or just
-to say thanks, please [sponsor me on GitHub](https://github.com/sponsors/konstruktoid).
+to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/thosjo)
+[![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)
 
 ## Publications
 
