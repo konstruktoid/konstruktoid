@@ -14,6 +14,7 @@ to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/ko
 
 ### Writer
 
+[Running a NGINX container using rootless Docker with Ansible](https://github.com/konstruktoid/ansible-docker-rootless)\
 [Building a bastion, or an example on how to lock down a website using Ansible and Docker](https://github.com/konstruktoid/publications/blob/master/bastion/README.md)\
 [Ubuntu 18.04: Comparing the DISA STIG and CIS Benchmark values](https://github.com/konstruktoid/publications/blob/master/ubuntu_comparing_guides_benchmarks.md)\
 [Using Ansible custom, or local, facts](https://medium.com/@konstruktoid/using-ansible-custom-or-local-facts-95f3a8510fae)\
