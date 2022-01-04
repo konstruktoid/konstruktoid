@@ -23,6 +23,7 @@ to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/ko
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/thosjo)
 [![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)
+[![Matrix](https://img.shields.io/badge/-Matrix-black?style=flat-square)](https://matrix.to/#/@konstruktoid:matrix.org)
 
 ## Publications
 
