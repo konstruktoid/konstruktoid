@@ -18,6 +18,9 @@ will fix that for you.
 _Please note that because of the changes to [Docker Automated Builds](https://docs.docker.com/docker-hub/builds/)
 many Docker images are now outdated and a manual build is required and recommended._
 
+If you're into honeypots and password lists, have a look at
+[konstruktoid/ansible-cowrie-rootless](https://github.com/konstruktoid/ansible-cowrie-rootless).
+
 If you'd like to support the development of current and future projects, or just
 to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
 
