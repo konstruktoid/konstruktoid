@@ -24,6 +24,12 @@ If you're into honeypots and password lists, have a look at
 If you'd like to support the development of current and future projects, or just
 to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
 
+```console
+Do not use any code available without first testing in a non-operational environment.
+
+Trust me as much as you trust your eighth level dependencies.
+```
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/thosjo)
 [![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)
 [![Matrix](https://img.shields.io/badge/-Matrix-black?style=flat-square)](https://matrix.to/#/@konstruktoid:matrix.org)
