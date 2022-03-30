@@ -30,9 +30,10 @@ Do not use any code available without first testing in a non-operational environ
 Trust me as much as you trust your eighth level dependencies.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/thosjo)
 [![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square)](https://www.linkedin.com/in/thosjo)
 [![Matrix](https://img.shields.io/badge/-Matrix-black?style=flat-square)](https://matrix.to/#/@konstruktoid:matrix.org)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square)](https://t.me/konstruktoid)
 
 ## Publications
 
