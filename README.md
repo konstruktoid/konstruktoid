@@ -7,19 +7,15 @@ documentation.
 
 For example, if you're interested in ideas on how to make your servers a bit
 more secure, the [hardening](https://github.com/konstruktoid/hardening)
-repository may be a good start. Or perhaps the [Packer template](https://github.com/konstruktoid/hardening-geniso)
+repository may be a good start. And perhaps the [Packer template](https://github.com/konstruktoid/hardening-geniso)
 or [Ansible playbook](https://github.com/konstruktoid/ansible-role-hardening)
 might help as well.
 
-Or are you in the need of a 1.84MB NGINX container image?
-Then the [NGINX build repository](https://github.com/konstruktoid/Nginx_Build/tree/busybox)
-will fix that for you.
+If you're into honeypots and password lists, have a look at
+[konstruktoid/ansible-cowrie-rootless](https://github.com/konstruktoid/ansible-cowrie-rootless).
 
 _Please note that because of the changes to [Docker Automated Builds](https://docs.docker.com/docker-hub/builds/)
 many Docker images are now outdated and a manual build is required and recommended._
-
-If you're into honeypots and password lists, have a look at
-[konstruktoid/ansible-cowrie-rootless](https://github.com/konstruktoid/ansible-cowrie-rootless).
 
 If you'd like to support the development of current and future projects, or just
 to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
