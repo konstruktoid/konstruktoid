@@ -18,7 +18,8 @@ _Please note that because of the changes to [Docker Automated Builds](https://do
 many Docker images are now outdated and a manual build is required and recommended._
 
 If you'd like to support the development of current and future projects, or just
-to say thanks, feel free to buy me a [:coffee:](https://github.com/sponsors/konstruktoid).
+to say thanks, please [buy me a :coffee:](https://github.com/sponsors/konstruktoid?frequency=one-time)
+or [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
 
 ```console
 Do not use any code available without first testing in a non-operational environment.
