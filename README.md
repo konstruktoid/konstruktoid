@@ -12,7 +12,8 @@ or [Ansible playbook](https://github.com/konstruktoid/ansible-role-hardening)
 might help as well.
 
 If you're into honeypots and password lists, have a look at
-[konstruktoid/ansible-cowrie-rootless](https://github.com/konstruktoid/ansible-cowrie-rootless).
+[konstruktoid/ansible-cowrie-rootless](https://github.com/konstruktoid/ansible-cowrie-rootless)
+and [konstruktoid/honeypot-passwords](https://github.com/konstruktoid/honeypot-passwords).
 
 _Please note that because of the changes to [Docker Automated Builds](https://docs.docker.com/docker-hub/builds/)
 many Docker images are now outdated and a manual build is required and recommended._
@@ -21,11 +22,8 @@ If you'd like to support the development of current and future projects, or just
 to say thanks, please [buy me a :coffee:](https://github.com/sponsors/konstruktoid?frequency=one-time)
 or [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
 
-```console
-Do not use any code available without first testing in a non-operational environment.
-
-Trust me as much as you trust your eighth level dependencies.
-```
+> **Note**
+> Do not use any code available without first testing in a non-operational environment.
 
 [![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square)](https://www.linkedin.com/in/thosjo)
