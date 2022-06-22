@@ -23,9 +23,7 @@ to say thanks, please [buy me a :coffee:](https://github.com/sponsors/konstrukto
 or [sponsor me here on GitHub](https://github.com/sponsors/konstruktoid).
 
 > **Note**
->
 > Do not use any code available without first testing in a non-operational environment.
->
 
 [![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square)](https://www.linkedin.com/in/thosjo)
