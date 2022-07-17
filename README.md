@@ -7,7 +7,7 @@ documentation.
 
 For example, if you're interested in ideas on how to make your servers a bit
 more secure, the [hardening](https://github.com/konstruktoid/hardening)
-repository may be a good start. And perhaps the [Packer template](https://github.com/konstruktoid/hardening-geniso)
+repository may be a good start. And perhaps the [hardened images](https://github.com/konstruktoid/hardened-images)
 or [Ansible playbook](https://github.com/konstruktoid/ansible-role-hardening)
 might help as well.
 
