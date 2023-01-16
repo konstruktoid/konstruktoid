@@ -1,7 +1,5 @@
 # Hi There!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstruktoid&show_icons=true)
-
 This here is a collection of freely available open-source software and
 documentation.
 
