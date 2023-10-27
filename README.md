@@ -4,9 +4,8 @@ This here is a collection of freely available open-source software and
 documentation.
 
 For example, if you're interested in ideas on how to make your servers a bit
-more secure, the [hardening](https://github.com/konstruktoid/hardening)
-repository may be a good start. And perhaps the [hardened images](https://github.com/konstruktoid/hardened-images)
-or [Ansible playbook](https://github.com/konstruktoid/ansible-role-hardening)
+more secure, the [Ansible role](https://github.com/konstruktoid/ansible-role-hardening)
+repository may be a good start or perhaps the [hardened images](https://github.com/konstruktoid/hardened-images)
 might help as well.
 
 If you're into honeypots and password lists, have a look at
