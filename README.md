@@ -8,10 +8,6 @@ more secure, the [Ansible role](https://github.com/konstruktoid/ansible-role-har
 repository may be a good start or perhaps the [hardened images](https://github.com/konstruktoid/hardened-images)
 might help as well.
 
-If you're into honeypots and password lists, have a look at
-[konstruktoid/ansible-cowrie-rootless](https://github.com/konstruktoid/ansible-cowrie-rootless)
-and [konstruktoid/honeypot-passwords](https://github.com/konstruktoid/honeypot-passwords).
-
 > **Note**
 > Do not use any code available without first testing in a non-operational environment.
 
